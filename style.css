@@ -20,11 +20,11 @@
 
 --font-padrao: Arial, Verdana, Helvetica, sans-serif;
 --font-destaque: "Bebas Neue";
---font-android: "idroid";
+--font-android: "Android";
 }
 @font-face {
-    font-family: "idroid";
-    src: url(fontes/idroid.otf);
+    font-family: "Android";
+    src: url('fontes/idroid.otf');
     font-weight: normal;
 }
 * {
